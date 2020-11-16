@@ -18,12 +18,17 @@
         }
     },
     "require": {
-        "php-web-component/core": "dev-develop"
+        "php-web-component/core": "dev-develop",
+        "php-web-component/assets-manager": "dev-develop"
     },
     "repositories": [
         {
             "type": "path",
             "url": "../core"
+        },
+        {
+            "type": "path",
+            "url": "../assets-manager"
         }
     ]
 }
