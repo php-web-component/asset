@@ -18,8 +18,7 @@
         }
     },
     "require": {
-        "php-web-component/core": "dev-develop",
-        "php-web-component/assets-manager": "dev-develop"
+        "php-web-component/core": "dev-develop"
     },
     "repositories": [
         {
